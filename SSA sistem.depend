@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1496485392 source:c:\users\said\desktop\c++\projekat sistem biblioteke\ssa sistem\dokument.cpp
+	"dokument.h"
+
+1496485371 c:\users\said\desktop\c++\projekat sistem biblioteke\ssa sistem\dokument.h
+	<iostream>
+	<string>
+	"datum.h"
+
+1496484350 source:c:\users\said\desktop\c++\projekat sistem biblioteke\ssa sistem\main.cpp
+	"dokument.h"
+	"knjiga.h"
+	"fajl.h"
+	"datum.h"
+
+1496424645 source:c:\users\said\desktop\c++\projekat sistem biblioteke\ssa sistem\datum.cpp
+	"datum.h"
+
+1496422732 c:\users\said\desktop\c++\projekat sistem biblioteke\ssa sistem\datum.h
+	<iostream>
+	<string>
+
+1496482500 source:c:\users\said\desktop\c++\projekat sistem biblioteke\ssa sistem\knjiga.cpp
+	"knjiga.h"
+	<iostream>
+	<limits>
+
+1496485036 c:\users\said\desktop\c++\projekat sistem biblioteke\ssa sistem\knjiga.h
+	"dokument.h"
+
+1496484178 source:c:\users\said\desktop\c++\projekat sistem biblioteke\ssa sistem\fajl.cpp
+	"fajl.h"
+	<limits>
+
+1496484149 c:\users\said\desktop\c++\projekat sistem biblioteke\ssa sistem\fajl.h
+	"dokument.h"
+
+1496486586 source:c:\users\said\desktop\sistem-biblioteke\datum.cpp
+	"datum.h"
+
+1496486586 c:\users\said\desktop\sistem-biblioteke\datum.h
+	<iostream>
+	<string>
+
+1498435900 source:c:\users\said\desktop\sistem-biblioteke\dokument.cpp
+	"dokument.h"
+	<limits>
+
+1498435331 c:\users\said\desktop\sistem-biblioteke\dokument.h
+	<iostream>
+	<string>
+	"datum.h"
+
+1498385981 source:c:\users\said\desktop\sistem-biblioteke\fajl.cpp
+	"fajl.h"
+	<limits>
+
+1498385675 c:\users\said\desktop\sistem-biblioteke\fajl.h
+	"dokument.h"
+
+1498386049 source:c:\users\said\desktop\sistem-biblioteke\knjiga.cpp
+	"knjiga.h"
+	<iostream>
+	<limits>
+
+1498386005 c:\users\said\desktop\sistem-biblioteke\knjiga.h
+	"dokument.h"
+
+1498610963 source:c:\users\said\desktop\sistem-biblioteke\main.cpp
+	"biblioteka.h"
+
+1498386473 source:c:\users\said\desktop\sistem-biblioteke\naucnirad.cpp
+	"naucnirad.h"
+	<limits>
+
+1498386084 c:\users\said\desktop\sistem-biblioteke\naucnirad.h
+	"knjiga.h"
+
+1498616288 source:c:\users\said\desktop\sistem-biblioteke\polica.cpp
+	"polica.h"
+
+1498615258 c:\users\said\desktop\sistem-biblioteke\polica.h
+	<string>
+	"dokument.h"
+	"knjiga.h"
+	"fajl.h"
+	"naucnirad.h"
+
+1498615940 source:c:\users\said\desktop\sistem-biblioteke\korisnik.cpp
+	"korisnik.h"
+
+1498615912 c:\users\said\desktop\sistem-biblioteke\korisnik.h
+	<string>
+	"polica.h"
+
+1498617593 source:c:\users\said\desktop\sistem-biblioteke\biblioteka.cpp
+	"biblioteka.h"
+	<cstdlib>
+	<limits>
+
+1498617228 c:\users\said\desktop\sistem-biblioteke\biblioteka.h
+	<iostream>
+	<fstream>
+	"polica.h"
+	"korisnik.h"
+
